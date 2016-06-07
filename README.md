@@ -6,6 +6,4 @@ largeproject
 
 
 
-anchors.right: idGridView.right
-anchors.top: idGridView.top
-anchors.rightMargin: 50
+feat2
